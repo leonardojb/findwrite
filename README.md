@@ -1,12 +1,12 @@
 # findwrite
 
-Introduction
+- Introduction
 This script searches for all the text files in a specified folder and checks if a specific word is in the last 50 lines of each file. If the specific word is found, it extracts an ID from the file name and writes it to an output file.
 
-Requirements
+- Requirements
 This script requires Python 3 to run. There are no additional dependencies.
 
-Usage
+- Usage
 Clone the repository to your local machine.
 Open the script reading.py.
 Modify the following variables to match your use case:
